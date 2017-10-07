@@ -1,0 +1,5 @@
+Controls: Move mouse to turn camera
+        There will be a light yellow crosshair indicating where the ball will go towards
+        - 'W' button to hit ball relative to camera direction 
+        - 'UP' and 'DOWN' arrow keys to increase/decrease force to hit the ball
+        - 'ESC' to quit
